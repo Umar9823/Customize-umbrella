@@ -1,4 +1,4 @@
-# Custom Umbrella Preview Tool
+# Customize-umbrella
 
 A responsive web application that lets users preview and customize umbrellas by changing colors and uploading their own logos. Built using HTML, CSS, and vanilla JavaScript.
 
